@@ -1,0 +1,15 @@
+N_de_passageiros_na_simulação=30
+N_de_autocarros_Expresso=4
+N_de_autocarros_Mini-Bus=4
+N_de_autocarros_Convencionais=2
+N_de_autocarros_Long_Drive=0
+N_de_autocarros_em_Coimbra=2
+N_de_autocarros_em_Porto=2
+N_de_autocarros_em_Cascais=2
+N_de_autocarros_em_Braga=2
+N_de_autocarros_em_Lisboa=2
+Cascais_Lisboa=38
+Lisboa_Coimbra=212
+Coimbra_Porto=119
+Porto_Braga=56
+Lisboa_Porto=304
